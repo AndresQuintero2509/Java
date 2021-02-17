@@ -4,7 +4,7 @@ public class Entero {
         int miVariableEntera = 10;
         System.out.println(miVariableEntera);
         //Se modifica el valor de la variable
-        miVariableEntera = 5;
+        miVariableEntera = 5; 
         System.out.println(miVariableEntera);
     }
 }
